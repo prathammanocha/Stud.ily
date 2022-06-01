@@ -1,13 +1,16 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.drag-wrapper {
+  width: 200px;
+  cursor: move;
+  padding: 50px;
+  text-align: center;  
+  background: white;
+  opacity: 50%; 
+  height: 300px;
+  width: 200px;
+
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.body {
+  background-image: "url(wallpapersden-11.png)";
+  background-color: aqua;
 }
