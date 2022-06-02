@@ -4,9 +4,10 @@
   padding: 50px;
   text-align: center;  
   background: white;
-  opacity: 50%; 
+  opacity: 70%; 
   height: 300px;
   width: 200px;
+  border-radius: 5px;
 
 }
 
